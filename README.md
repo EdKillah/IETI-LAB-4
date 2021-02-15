@@ -3,14 +3,14 @@
 
 ```
 Credentials
-	username: edkillah
+	username: edkillah@mail.com
 	password: 654321
 ```
 
 
 You can find the deploy on heroku in the next link: 
 
-[heroku](https://task-list-ieti.herokuapp.com)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-list-ieti.herokuapp.com)
 
 ## Images
 
