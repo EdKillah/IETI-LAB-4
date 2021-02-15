@@ -1,6 +1,7 @@
-# Laboratorio 3 Task Manager
 
+# Lab 4 Task Manager
 
+The same task manager used in Lab 3 Part 1, working offline, and using cache memory to store basic credentials to access to services offer by this app.
 ```
 Credentials
 	username: edkillah@mail.com
@@ -10,21 +11,38 @@ Credentials
 
 You can find the deploy on heroku in the next link: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-list-ieti.herokuapp.com)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-manager-ieti.herokuapp.com/index)
 
-## Images
+# Images
 
-### **On heroku**
 
-Working Offline:
+## New Task
 
-![](resources/offline_heroku.PNG)
+![](resources/new1.PNG)
 
-![](resources/offline_heroku_2.PNG)
+![](resources/new2.PNG)
 
-Not working on any webpage else as it is expected:
+## Updating information in navigation drawer view 
 
-![](resources/offline_heroku_3.PNG)
+![](resources/toggle1.PNG)
+
+![](resources/toggle2.PNG)
+
+## Filter information
+
+You can filter by:
+
+* Date
+* Responsible
+* Status
+
+**All combinations are allowed.**
+To show all tasks again you must click "Clear All" button and after that click the "Apply" button.
+
+![](resources/filter1.PNG)
+
+![](resources/filter2.PNG)
+
 
 
 
