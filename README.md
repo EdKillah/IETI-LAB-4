@@ -11,7 +11,7 @@ Credentials
 
 You can find the deploy on heroku in the next link: 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-manager-ieti.herokuapp.com/index)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-manager-ieti.herokuapp.com)
 
 # Images
 
