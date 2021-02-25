@@ -29,6 +29,12 @@ You can find the deploy on heroku in the next link:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://task-manager-ieti.herokuapp.com)
 
+
+You cand find the deploy on Firebase in the next link:
+
+[https://ieti-laboratorio-4.web.app/](https://ieti-laboratorio-4.web.app/)
+
+
 # Images
 
 
@@ -60,7 +66,9 @@ To show all tasks again you must click "Clear All" button and after that click t
 ![](resources/filter2.PNG)
 
 
+## Working on firebase
 
+![](resources/online_firebase.PNG)
 
 
 
